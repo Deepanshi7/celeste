@@ -3,7 +3,8 @@
 Welcome to the Celeste project! This repository hosts a web application designed to provide an engaging user experience with a focus on food and drink offerings.
 
 ---
-
+## https://deepanshi7.github.io/celeste
+---
 ## Table of Contents
 
 - [Introduction](#introduction)
