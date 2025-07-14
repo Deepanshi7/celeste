@@ -1,7 +1,3 @@
-Sure! Here’s an updated version of the README that includes sections for images. You can replace the placeholder image URLs with the actual URLs of your images.
-
----
-
 # Project Title: Celeste
 
 Welcome to the Celeste project! This repository hosts a web application designed to provide an engaging user experience with a focus on food and drink offerings.
@@ -115,4 +111,4 @@ Thank you for visiting the Celeste project! We hope you enjoy exploring the culi
 
 ---
 
-Feel free to replace the placeholder image URLs with the actual URLs of your images, and adjust any other content as needed!
+
